@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Pinned Repositories:
-[![Corion](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=Corion&theme=dark)](https://github.com/bisharababish/Corion)
+[![Corion](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=Corion&theme=dark)](https://github.com/bisharababish/Corions)
 -
 [![RushHour](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=RushHour&theme=dark)](https://github.com/bisharababish/RushHour)
 -
