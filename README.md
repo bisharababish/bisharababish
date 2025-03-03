@@ -9,11 +9,16 @@
 ---
 
 ### 📌 Pinned Repositories:
+### 📌 Pinned Repositories:
+
 [![RushHour](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=RushHour&theme=dark)](https://github.com/bisharababish/RushHour)
--
+A time-based puzzle game where you navigate through traffic jams.
+
 [![Corion](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=Corion&theme=dark)](https://github.com/bisharababish/Corion)
--
+A powerful Discord moderation bot that handles server administration.
+
 [![TheDungeons](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=TheDungeons&theme=dark)](https://github.com/bisharababish/TheDungeons)
+A 2D fast-paced platformer with character classes and combat.
 -
 [![X4Trends](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=X4Trends&theme=dark)](https://github.com/bisharababish/X4Trends)
 -
