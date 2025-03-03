@@ -17,7 +17,7 @@
 -
 [![X4Trends](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=X4Trends&theme=dark)](https://github.com/bisharababish/X4Trends)
 -
-[![MazeGame](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=MazeGame&theme=dark)](https://github.com/bisharababish/MazeGame)
+[![TravelApp](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=MazeGame&theme=dark)](https://github.com/bisharababish/TravelApp)
 
 
 ---
