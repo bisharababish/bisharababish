@@ -9,7 +9,6 @@
 ---
 
 ### 📌 Pinned Repositories:
-### 📌 Pinned Repositories:
 
 [![RushHour](https://github-readme-stats.vercel.app/api/pin/?username=bisharababish&repo=RushHour&theme=dark)](https://github.com/bisharababish/RushHour)
 -
